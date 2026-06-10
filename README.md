@@ -32,10 +32,11 @@
 ![1](<docs-quintana/primeraevidencia.png>)
 
 2.- Segunda evidencia - Instalación de tailwind:
-![2](<docs-quintana//Screenshot 2026-06-10 142122.png>)
+![2](<docs-quintana/Screenshot 2026-06-10 142122.png>)
 
 3.- Tercera evidencia - Shadcn y su botón:
 ![3](<docs-quintana/terceraevidencia.png>)
 
 4.- Cuarta evidencia - Layout con footer, navbar y appshell:
 ![4](<docs-quintana/cuartaevidencia.png>)
+         
