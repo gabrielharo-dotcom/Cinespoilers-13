@@ -29,14 +29,14 @@
 ### Integrante:
 
 1.-Primera evidencia - Proyecto corriendo:
-![1](<docs-quintana/primeraevidencia.png>)
+![1](<docs-Quintana/primeraevidencia.png>)
 
 2.- Segunda evidencia - Instalación de tailwind:
-![2](<docs-quintana/Screenshot 2026-06-10 142122.png>)
+![2](<docs-Quintana/Screenshot 2026-06-10 142122.png>)
 
 3.- Tercera evidencia - Shadcn y su botón:
-![3](<docs-quintana/terceraevidencia.png>)
+![3](<docs-Quintana/terceraevidencia.png>)
 
 4.- Cuarta evidencia - Layout con footer, navbar y appshell:
-![4](<docs-quintana/cuartaevidencia.png>)
+![4](<docs-Quintana/cuartaevidencia.png>)
          
